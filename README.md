@@ -17,4 +17,4 @@ Simple comparison of logic and functional programming paradigm using graph color
  Functional programming - JavaScript<br><br>
  
 In this case,this is not pure functional programming, but mix of functional and OOP because of implementation of a graph, but coloring algorithm uses main properties of functional paradigm.<br>
-For this problem logic programming seems to be more elegant regarding code complexity because of search implementations in Prolog.<br>
+For this problem logic programming seems to be better solution regarding code complexity because of search implementations in Prolog.<br>
