@@ -8,10 +8,10 @@ Simple comparison of logic and functional programming paradigm using graph color
 **Sequential greedy coloring algorithm:** https://en.wikipedia.org/wiki/Greedy_coloring <br>
 1.Color first vertex with first color. <br>
 2.Do following for remaining V-1 vertices.<br>
-     Consider the currently picked vertex and color it with the<br>
-     lowest numbered color that has not been used on any previously<br>
-     colored vertices adjacent to it. If all previously used colors<br>
-     appear on vertices adjacent to v, assign a new color to it.<br><br>
+     ---Consider the currently picked vertex and color it with the<br>
+     ---lowest numbered color that has not been used on any previously<br>
+     ---colored vertices adjacent to it. If all previously used colors<br>
+     ---appear on vertices adjacent to v, assign a new color to it.<br><br>
  
  Logical programming - Prolog <br>
  Functional programming - JavaScript<br><br>
