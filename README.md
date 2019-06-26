@@ -5,7 +5,9 @@
 </p>
 
 Simple comparison of logic and functional programming paradigm using graph coloring problem for programming paradigms course.<br>
-**Sequential greedy coloring algorithm:** https://en.wikipedia.org/wiki/Greedy_coloring <br>
+**Sequential greedy coloring algorithm:** https://en.wikipedia.org/wiki/Greedy_coloring <br><br>
+
+**Algorithm**<br>
 1.Color first vertex with first color. <br>
 2.Do following for remaining V-1 vertices.<br>
      ---Consider the currently picked vertex and color it with the<br>
